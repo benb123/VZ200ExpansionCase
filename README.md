@@ -11,8 +11,8 @@ Thanks to David Maunder for providing the dimensions for this work. :-)
 
 ## Project Schedule
 
-    1 IN PROGRESS: Bottom Cover/Base
-    2 Top cover basics
+    1 DONE: Bottom Cover/Base
+    2 IN PROGRESS: Top cover basics
     3 Top cover grills on left and right sides
     4 Edge connector cover at front of expansion.
     5 Original VZ200 art (possibly 3D printed layer to melt on top of case)
